@@ -5,7 +5,7 @@ int main() {
    char answer;           // stores user input for each question
    int score = 0;         // keeps track of correct answers
 
-   printf("🧠 Welcome to the C Language Quiz!\n");
+   printf("🧠 Welcome to the C Language Quiz! 📚 \n");
    printf("=================================\n\n");
 
    // Question 1
